@@ -1,0 +1,10 @@
+
+.jumbotron {
+  color: #fff;
+  background: rgb(0,98,60);
+  background: linear-gradient(157deg, #009f62 20%, #090979 54%, #ff0099 100%);
+}
+
+h1 {
+  font-family: 'Bebas Neue', sans-serif;
+}
